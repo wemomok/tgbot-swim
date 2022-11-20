@@ -1,2 +1,5 @@
 constants.py
 __pycache__/
+databases/database.db
+databases/__pycache__/
+
